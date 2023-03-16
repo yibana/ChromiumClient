@@ -1,4 +1,4 @@
-module ChromiumClient
+module github.com/yibana/ChromiumClient
 
 go 1.18
 
